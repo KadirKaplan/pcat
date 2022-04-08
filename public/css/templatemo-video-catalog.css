@@ -205,8 +205,8 @@ h2, p { color: #666666; }
     padding-bottom: 35px;
 }
 
-.tm-page-title { font-size: 2.5rem; }
-.tm-catalog-item-list { justify-content: space-between; }
+.tm-page-title { font-size: 2.5rem; }start
+.tm-catalog-item-list { justify-content: start }
 
 .tm-catalog-item {
     max-width: 462px;
